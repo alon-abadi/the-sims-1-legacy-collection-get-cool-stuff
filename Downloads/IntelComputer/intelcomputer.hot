@@ -1,0 +1,16 @@
+
+[Options]
+Version=1
+LoadPriority=2
+
+[EventMapping]
+logo_intel_filtered=1,6190,0,0,0
+
+[Patch]
+6191=0,logo_intel_filtered,"downloads\intelcomputer\logo_intel_filtered.xa",0,0,0,0,0
+
+[Track]
+6190=0,logo_intel_filtered,1024,2,10,1,20,1,6191
+
+
+
