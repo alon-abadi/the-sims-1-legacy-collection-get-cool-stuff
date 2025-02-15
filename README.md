@@ -4,6 +4,9 @@ This collection includes items originally created by Maxis and released to the p
 
 To make these items available again, they have been extracted and reverse-engineered from the original installer.  
 
+![Some of the items available in this package](https://github.com/alon-abadi/the-sims-1-legacy-collection-get-cool-stuff/blob/master/MaxisGetCoolStuff.png)
+
+
 ### Notes:  
 - Some of these items were later included in expansion packs or the Deluxe edition. If you encounter duplicates, feel free to skip them.  
 - The **Green Set** also includes the **Crimson Collection**, a set of Maxis Match extras that used to be available on SimSpot.space (now defunct). This collection expands on the McDonald's bed and dresser set with matching items.  
